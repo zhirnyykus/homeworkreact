@@ -1,0 +1,17 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.album-cover {
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.App-header h1,
+.App-header h2,
+.App-header h3,
+.App-header p {
+  margin: 2px 0;
+}
