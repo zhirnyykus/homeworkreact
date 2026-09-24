@@ -1,0 +1,13 @@
+.box {
+  width: 400px;
+  padding: 40px;
+  background: white;
+}
+
+.box.dark {
+  background: green;
+}
+
+.box.light {
+  background: yellow;
+}
